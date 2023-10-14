@@ -42,11 +42,11 @@ Before you can use this application, you need to have the following software ins
    - Choose the destination directory for the decompressed file.
    - Click the "Decompress" button to start the decompression process.
 
-7. The progress bar will show the progress of the compression or decompression operation.
-
 ## Screenshot
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot]([screenshot.png](https://github.com/VishnuThangaraj/Compressor-Decompressor/tree/main/Screenshots/User%20Interface.png))
+![Application Screenshot]([screenshot.png](https://github.com/VishnuThangaraj/Compressor-Decompressor/tree/main/Screenshots/fileSelection.png))
+![Application Screenshot]([screenshot.png](https://github.com/VishnuThangaraj/Compressor-Decompressor/tree/main/Screenshots/files.png))
 
 ## Contributing
 We welcome contributions from the community! If you want to contribute to this project, please follow these steps:
